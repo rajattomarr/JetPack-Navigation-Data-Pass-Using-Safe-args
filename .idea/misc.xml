@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/e5000615/AndroidStudioProjects/Jetpack_Navigation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1315" />
+        <entry key="..\:/Users/e5000615/AndroidStudioProjects/Jetpack_Navigation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
         <entry key="..\:/Users/e5000615/AndroidStudioProjects/Jetpack_Navigation/app/src/main/res/layout/activity_main.xml" value="0.16458333333333333" />
         <entry key="..\:/Users/e5000615/AndroidStudioProjects/Jetpack_Navigation/app/src/main/res/layout/fragment_chooserecepient.xml" value="0.33" />
         <entry key="..\:/Users/e5000615/AndroidStudioProjects/Jetpack_Navigation/app/src/main/res/layout/fragment_confirmation.xml" value="0.16458333333333333" />

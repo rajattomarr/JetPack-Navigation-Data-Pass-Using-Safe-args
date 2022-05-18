@@ -10,7 +10,7 @@ import android.widget.TextView
 class ConfirmationFragment : Fragment() {
 
         var recipient: String? = null
-           var money : Money? = null
+        var money : Money? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
